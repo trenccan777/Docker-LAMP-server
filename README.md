@@ -23,4 +23,4 @@ docker-compose down -v
 ```
 
 ## Usage
-You can start working with your PHP files in the `src` folder. PhpMyAdmin is available on port `8080`.
+You can start working with your PHP files in the `web` folder. PhpMyAdmin is available on port `8080`.
